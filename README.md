@@ -22,7 +22,7 @@ _Italics_
 
 https://kotlinlang.org/
 
-or
+alternatively,
 
 [Click here](https://kotlinlang.org/  "Normal link")
 

@@ -1,10 +1,4 @@
-# markdown-guide
-
-#moha edited this branch
-## Write attractive md (ReadMe) files for your repos
-
-My-forked-code
-MY HEADING @ jairussss
+## Write attractive md (ReadMe) files for your repo
 
 # Heading 1.
 
@@ -38,7 +32,7 @@ or
 
 
 ### Username @mentions
-@Ericgacoki
+@MaurineM
 
 ### Emojis
 

@@ -13,7 +13,7 @@ _Italics_
 **Bold Text** 
  
 ```Kotlin
-// code snippet
+// code snippet.
 
  var language = "Kotlin "
  val len = language.trim().length()
